@@ -1,5 +1,5 @@
 # tas-kagit-makas_oyunu
-## Taş, Kağıt ve Makas Oyun Kodunun Çalışması 
+## Taş, Kağıt ve Makas Oyun Kodunun Çalışma Prensibi
 **🚀 Başlangıç** <br/>
 •	Oyun ilk olarak `tas_kagit_makas_ÖZGE_KIR()` fonksiyonu ile başlar. Sonrasında oyunun kurallarını ve ne yapmanız gerektiğini anlatan birkaç mesaj ekrana gelir. <br/>
 
